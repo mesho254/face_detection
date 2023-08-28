@@ -1,7 +1,7 @@
 # Face Detection 
 Face detection demo using opencv and haarcascade
 
-[demo](demo.mp4)
+
 
 ### Installation
 
